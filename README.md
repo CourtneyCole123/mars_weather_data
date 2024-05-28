@@ -2,9 +2,15 @@
 
 - Automated browsing (with Splinter) was used to visit the Mars news site, and the HTML code was extracted (with Beautiful Soup).
 
+  ![image](https://github.com/CourtneyCole123/mars_weather_data/assets/162069113/0c5a753f-9e6e-4a58-b612-c6f3f1cf68e2)
+
 - The titles and preview text of the news articles were scraped and extracted.
 
+  ![image](https://github.com/CourtneyCole123/mars_weather_data/assets/162069113/5f76178e-32c2-4af2-b679-88013456f063)
+
 - The scraped information was stored in the specified Python data structure—specifically, a list of dictionaries.
+
+  ![image](https://github.com/CourtneyCole123/mars_weather_data/assets/162069113/c9f6a6c3-52bb-4380-9aa8-a27cb6b551e4)
 
 ## Part 2: Scrape and Analyze Mars Weather Data 🌧️ ##
 
