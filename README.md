@@ -12,6 +12,8 @@
 
   ![image](https://github.com/CourtneyCole123/mars_weather_data/assets/162069113/c9f6a6c3-52bb-4380-9aa8-a27cb6b551e4)
 
+  <pre> Special Note: https://stackoverflow.com/questions/3229419/how-to-pretty-print-nested-dictionaries was used as a reference to pretty print</pre>
+
 ## Part 2: Scrape and Analyze Mars Weather Data 🌧️ ##
 
 - The HTML table was extracted into a Pandas DataFrame. Either Pandas or Splinter and Beautiful Soup were used to scrape the data. The columns have the correct headings and data types.
