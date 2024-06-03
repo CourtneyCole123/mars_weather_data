@@ -18,18 +18,46 @@
 
 - The HTML table was extracted into a Pandas DataFrame. Either Pandas or Splinter and Beautiful Soup were used to scrape the data. The columns have the correct headings and data types.
 
+  ![image](https://github.com/CourtneyCole123/mars_weather_data/assets/162069113/c5de85af-32c7-40d4-a668-d6f891817f66)
+
+  ![image](https://github.com/CourtneyCole123/mars_weather_data/assets/162069113/de9abaed-ccb9-4c1a-a1ac-e36f3cb16af5)
+
+  ![image](https://github.com/CourtneyCole123/mars_weather_data/assets/162069113/1b0918a8-fab0-4020-bab9-0b36a2b5afb8)
+ 
+  ![image](https://github.com/CourtneyCole123/mars_weather_data/assets/162069113/9a77cf40-898b-4914-b94c-5258a7b859ea)
+
+  ![image](https://github.com/CourtneyCole123/mars_weather_data/assets/162069113/f4ffbb64-542c-49b2-bea6-1770cde1e0a8)
+
 - The data was analyzed to answer the following questions:
 
   - How many months exist on Mars?
+ 
+    ![image](https://github.com/CourtneyCole123/mars_weather_data/assets/162069113/215b71d2-c269-4361-93a0-efd1580d92ee)
   
   - How many Martian days' worth of data are there?
-  
+ 
+    ![image](https://github.com/CourtneyCole123/mars_weather_data/assets/162069113/1a354a2c-3671-4fcf-8cf0-63d4836d3e64)
+
   - The data was analyzed to answer the following questions, and a data visualization was created to support each answer:
   
     - Which month, on average, has the lowest temperature? The highest?
-    
+   
+      ![image](https://github.com/CourtneyCole123/mars_weather_data/assets/162069113/d9807b5b-17d7-478f-aede-87751bffd11d)
+ 
+      Answer: On average, the third month has the coldest minimum temperature on Mars, and the eighth month is the warmest.
+
     - Which month, on average, has the lowest atmospheric pressure? The highest?
-    
+   
+      ![image](https://github.com/CourtneyCole123/mars_weather_data/assets/162069113/60f1d236-80ad-4f72-9463-148f4957a0b7)
+ 
+      Answer: Atmospheric pressure is, on average, lowest in the sixth month and highest in the ninth.
+ 
     - How many terrestrial days exist in a Martian year? A visual estimate within 25% was made.
-    
+   
+      ![image](https://github.com/CourtneyCole123/mars_weather_data/assets/162069113/cb83fa0c-cfca-4ae0-aab3-1df531b45b20)
+
+      ![image](https://github.com/CourtneyCole123/mars_weather_data/assets/162069113/c1228314-41d6-43a7-9f48-f2f0df239aff)
+
     - The DataFrame was exported into a CSV file.
+
+      ![image](https://github.com/CourtneyCole123/mars_weather_data/assets/162069113/8a70d210-77ea-4bb8-96ea-801d4dba5e2a)
